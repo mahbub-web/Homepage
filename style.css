@@ -178,7 +178,9 @@ body {
  /* Projects */
 
  /* card */
-
+  #card p{
+    font-size: 14px;
+  }
 
  /* card */
 
