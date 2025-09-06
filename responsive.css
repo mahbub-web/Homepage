@@ -1,0 +1,8 @@
+@media (min-width: 320px) and (max-width: 575px){
+    
+    .text-bg-info {
+            color: #000 !important;
+            background-color: RGBA(13, 202, 240, var(--bs-bg-opacity, 1)) !important;
+            margin: 0 auto;
+        }
+}
